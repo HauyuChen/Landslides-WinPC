@@ -1,0 +1,18 @@
+C:\Users\goku\Desktop\山体状态监测预警系统\bin\Release\山体状态监测预警系统.exe
+C:\Users\goku\Desktop\山体状态监测预警系统\bin\Release\山体状态监测预警系统.pdb
+C:\Users\goku\Desktop\山体状态监测预警系统\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\goku\Desktop\山体状态监测预警系统\obj\x86\Release\山体状态监测预警系统.Form1.resources
+C:\Users\goku\Desktop\山体状态监测预警系统\obj\x86\Release\山体状态监测预警系统.Properties.Resources.resources
+C:\Users\goku\Desktop\山体状态监测预警系统\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\goku\Desktop\山体状态监测预警系统\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\goku\Desktop\山体状态监测预警系统\obj\x86\Release\山体状态监测预警系统.exe
+C:\Users\goku\Desktop\山体状态监测预警系统\obj\x86\Release\山体状态监测预警系统.pdb
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\obj\x86\Release\山体状态监测预警系统.exe
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\obj\x86\Release\山体状态监测预警系统.pdb
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\bin\Release\山体状态监测预警系统.exe
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\bin\Release\山体状态监测预警系统.pdb
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\obj\x86\Release\山体状态监测预警系统.Form1.resources
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\obj\x86\Release\山体状态监测预警系统.Properties.Resources.resources
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\^_^ hk\Desktop\山体状态监测预警系统\obj\x86\Release\GenerateResource.write.1.tlog
